@@ -1,4 +1,8 @@
 # EFI for Lenovo Thinkpad L14 Gen !
+- macOS: Ventura 13.7 / Tested on Sonoma 14.0, Sonoma 14.7 and Sequoia 15.1
+  
+- Opencore Version: 1.0.1
+  
 This repository contains the EFI required to install macOS on a Lenovo Thinkpad L14 Gen 1, below are the specifications:
 
 # Specs:
